@@ -339,6 +339,11 @@ article ul {
     background-color: #EEEEEE;
 }
 
+.img-aside{
+    width: 200px;
+    height: auto;
+    border-radius: 100%;
+}
 input {
     padding: 12px;
     border-radius: 12px;
